@@ -8,3 +8,10 @@ With the rise of meal delivery services, everyone can now enjoy their favorite r
 The goal of this article and its content is to comprehend the factors that influence the establishment of restaurants in various locations throughout Bangalore; these factors include aggregate consumer score, cuisines offered, type of service provided, and numerous others. With increasingly more eating places, it’s becoming harder for restaurants to run successfully, particularly in a metropolitan metropolis like Bangalore. By studying the Zomato dataset, you can get deeper insights into some of the influencing factors that improve the functioning of a restaurant in Bangalore.
 
 Today, we will investigate a dataset that carries approximate facts about the restaurant chains in Bangalore that also run on Zomato.
+
+Libraries Used
+1) Pandas
+2) Numpy
+3) Matplotlib
+4) Seaborn
+   
